@@ -77,30 +77,34 @@ Available options:
 - **Prompt types**: `zero-shot`, `few-shot`,
 
 
-## Project Structure
+### 📁 Project Structure
+```
 fake-news-detector/
-├── binary_classification/         # FakeNewsNet dataset implementation
+├── binary_classification/
 │   ├── main.py
 │   ├── preprocessing.py
 │   ├── prompts.py
 │   ├── classification.py
 │   ├── evaluation.py
 │   └── visualization.py
-├── multiclass_classification/                # LIAR dataset implementation
+│
+├── multiclass_classification/
 │   ├── main.py
 │   ├── preprocessing.py
 │   ├── prompts.py
 │   ├── classification.py
 │   ├── evaluation.py
 │   └── visualization.py
-├── data/                # Datasets directory
+│
+├── data/
 │   ├── fakenewsnet/
 │   └── liar/
-├── utils.py             # Shared utility functions
-├── results/             # Output metrics and evaluations
-├── figures/             # Generated visualizations
+│
+├── utils.py
+├── results/
+├── figures/
 └── requirements.txt
-
+```
 ## Evaluation Metrics
 
 This project evaluates fake news detection on multiple dimensions:
