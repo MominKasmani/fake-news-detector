@@ -1,6 +1,4 @@
-markdownCopy# Fake News Detection with Large Language Models
-
-This project implements a comprehensive fake news detection system using Large Language Models (LLMs) and prompt engineering, optimized for both accuracy and efficiency. It includes implementations for two popular datasets: FakeNewsNet and LIAR.
+#### This project implements a comprehensive fake news detection system using Large Language Models (LLMs) and prompt engineering, optimized for both accuracy and efficiency. It includes implementations for two popular datasets: FakeNewsNet and LIAR.
 
 ## Overview
 
