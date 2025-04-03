@@ -1,0 +1,51 @@
+true_label,predicted_label,statement,speaker,model,prompt_type,input_tokens,output_tokens,total_tokens
+half-true,barely-true,recess appointment,barack obama,gpt-4-turbo,few-shot,1270,5,1275
+false,false,white men account 69 percent arrested violent crime,sally kohn,gpt-4-turbo,few-shot,1276,2,1278
+mostly-true,mostly-true,republican including mr boehner charge number earmark pet project went,barack obama,gpt-4-turbo,few-shot,1284,4,1288
+false,mostly-true,clinical evidence vaccinating healthcare worker protects patient,service employee international union committee po,gpt-4-turbo,few-shot,1274,4,1278
+false,false,even among second third generation muslim united state there real assimilation,donald trump,gpt-4-turbo,few-shot,1284,2,1286
+half-true,half-true,jane norton supported largest tax hike colorado history,american job security,gpt-4-turbo,few-shot,1275,4,1279
+mostly-true,mostly-true,marijuana less toxic alcohol,marijuana policy project,gpt-4-turbo,few-shot,1269,4,1273
+pants-fire,pants-on-fire,im conspiracy theorist never allow conspiracy theorist program,peter lavelle,gpt-4-turbo,few-shot,1284,4,1288
+barely-true,barely-true,say bag litter increased san francisco banned single use shopping bag,drew springer,gpt-4-turbo,few-shot,1275,5,1280
+half-true,mostly-true,say health care reform bill paid part taking money student student loan system,rob portman,gpt-4-turbo,few-shot,1281,4,1285
+barely-true,barely-true,democrat cutting school funding four time last 10 year came office,bruce rauner,gpt-4-turbo,few-shot,1284,5,1289
+true,false,last year zero percent growth gdp virginia state worse u alaska mississippi,glen sturtevant,gpt-4-turbo,few-shot,1282,2,1284
+half-true,mostly-true,mitt romney said tragic end war iraq,barack obama,gpt-4-turbo,few-shot,1282,4,1286
+half-true,barely-true,250 voter registration group ranging across entire political spectrum filed state registering voter right,lenny curry,gpt-4-turbo,few-shot,1286,5,1291
+half-true,mostly-true,say work raise federal minimum wage back highest level ever 12 hour today dollar,hillary clinton,gpt-4-turbo,few-shot,1285,4,1289
+barely-true,mostly-true,two third medicaid beneficiary child account one third program cost one third elderly account two third cost,sherrod brown,gpt-4-turbo,few-shot,1287,4,1291
+true,mostly-true,halliburton gave dick cheney 34 million payout left company join presidential ticket,chris matthew,gpt-4-turbo,few-shot,1297,4,1301
+half-true,half-true,hear gov christie tell everything new jersey going fine well see another new jersey 400 000 unemployed one worst jobless rate country working middle class family seen cost soar property tax college tuition,barbara buono,gpt-4-turbo,few-shot,1308,4,1312
+false,false,say hillary clinton want go single payer plan health care,donald trump,gpt-4-turbo,few-shot,1280,2,1282
+barely-true,barely-true,general assembly address state structural deficit 23 000 education professional immediately yanked pennsylvania school,tom wolf,gpt-4-turbo,few-shot,1284,5,1289
+barely-true,false,donald trump say nato obsolete need get rid nato,tim kaine,gpt-4-turbo,few-shot,1278,2,1280
+half-true,half-true,john kasich say despite 12 visit president somewhere 45 million 50 million spent 500 paid volunteer calling every name book former president first lady god know else,john kasich,gpt-4-turbo,few-shot,1306,4,1310
+false,pants-on-fire,warren buffett called jeff greene scheme financial weapon mass destruction,kendrick meek,gpt-4-turbo,few-shot,1279,4,1283
+false,pants-on-fire,say71 percent doctor say hillary health concern serious could disqualifying,blog posting,gpt-4-turbo,few-shot,1276,4,1280
+barely-true,false,say barack obamas favorability rating israel clocked 4 percent,kinky friedman,gpt-4-turbo,few-shot,1281,2,1283
+mostly-true,false,obama administration refusing directly arm kurd,ted cruz,gpt-4-turbo,few-shot,1276,2,1278
+false,mostly-true,giving almost 2 billion taxpayer money junk food fast food industry every year make childhood obesity epidemic worse,dennis kucinich,gpt-4-turbo,few-shot,1289,4,1293
+half-true,mostly-true,great wall china built 2 000 year ago 13 000 mile long,donald trump,gpt-4-turbo,few-shot,1287,4,1291
+false,false,never favored cap trade,newt gingrich,gpt-4-turbo,few-shot,1279,2,1281
+barely-true,barely-true,health care act people health care like county going able keep,eric cantor,gpt-4-turbo,few-shot,1279,5,1284
+false,false,think seven eight california system university dont even teach american history course even available taught,rick santorum,gpt-4-turbo,few-shot,1280,2,1282
+true,false,heroin pours across southern border,donald trump,gpt-4-turbo,few-shot,1274,2,1276
+half-true,mostly-true,thanks trans pacific partnership vietnam drafting presenting unprecedented labor reform changing constitution recognize worker organization vietnam first time,barack obama,gpt-4-turbo,few-shot,1290,4,1294
+pants-fire,pants-on-fire,elorza want teach public school child non existence god,local 799 international assoc fire fighter,gpt-4-turbo,few-shot,1276,4,1280
+barely-true,false,neville chamberlain told british people accept nazi yes dominate continent europe problem let appease cant done possibly stand,ted cruz,gpt-4-turbo,few-shot,1291,2,1293
+mostly-true,mostly-true,say state mandated test come english company,george lavender,gpt-4-turbo,few-shot,1276,4,1280
+true,pants-on-fire,sayvideo show massive alligator strolling across florida golf course,blog posting,gpt-4-turbo,few-shot,1274,4,1278
+half-true,false,recall election wisconsin governor would cost 7 7 million 7 7 million may already allocated merit raise teacher health care poor school book kid,rebecca kleefisch,gpt-4-turbo,few-shot,1297,2,1299
+half-true,half-true,ending stop frisk,jim kenney,gpt-4-turbo,few-shot,1284,4,1288
+barely-true,barely-true,say george lemieux even compared marco rubio barack obama,adam hasner,gpt-4-turbo,few-shot,1278,5,1283
+mostly-true,barely-true,say rather extraordinary amount non classroom employee added texas school district last decade,rick perry,gpt-4-turbo,few-shot,1281,5,1286
+true,mostly-true,state treasurer rhode island business helped create 1 000 job,gina raimondo,gpt-4-turbo,few-shot,1283,4,1287
+pants-fire,pants-on-fire,say age 76 need eligible cancer treatment affordable care act,chain email,gpt-4-turbo,few-shot,1273,4,1277
+mostly-true,half-true,cbo say raise minimum wage 10 10 hour half million people would lose job,rick santorum,gpt-4-turbo,few-shot,1284,4,1288
+false,false,implementing sale tax,doug ainge,gpt-4-turbo,few-shot,1273,2,1275
+false,barely-true,play role bringing company ri others government tasked handling legislation affecting company superior,steven costantino,gpt-4-turbo,few-shot,1280,5,1285
+barely-true,false,germany crime riddled right migration europe,donald trump,gpt-4-turbo,few-shot,1278,2,1280
+true,mostly-true,george allen voted budget increased national debt 16 400 every second served u senate,jamie radtke,gpt-4-turbo,few-shot,1282,4,1286
+mostly-true,mostly-true,say eight year florida governor created 1 3 million net new job job created texas,jeb bush,gpt-4-turbo,few-shot,1288,4,1292
+half-true,half-true,republican attempting remove barack obama georgia presidential ballot 2012,georgia democrat,gpt-4-turbo,few-shot,1280,4,1284
