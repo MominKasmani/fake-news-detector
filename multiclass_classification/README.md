@@ -7,7 +7,6 @@ This project implements a fake news detection system using Large Language Models
 The system uses OpenAI's GPT models with carefully engineered prompts to classify political statements into truthfulness categories. Three prompt strategies are implemented:
 - Zero-shot classification
 - Few-shot classification with examples
-- Chain-of-thought reasoning
 
 ## Features
 
