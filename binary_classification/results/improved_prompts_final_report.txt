@@ -1,0 +1,18 @@
+Fake News Detection Analysis Report with Improved Prompts
+Generated on: 2025-04-03 01:03:59.517719
+Execution time: 24.81 minutes
+
+Dataset Information:
+  - Total samples: 23196
+  - Balanced samples: 2000 (1000 per class)
+  - Training samples: 1600 (80%)
+  - Test samples: 400 (20%)
+
+Performance Metrics:
+               Approach  Accuracy  Precision  Recall  F1-Score  Tokens per Article  Cost per Classification ($)  Processing time (s)
+       gpt-4o_zero_shot      0.66       0.69    0.58      0.63              116.41                     0.000349                  0.5
+        gpt-4o_few_shot      0.70       0.70    0.72      0.71              977.50                     0.002932                  0.6
+  gpt-4-turbo_zero_shot      0.59       0.56    0.81      0.66              117.25                     0.001172                  0.8
+   gpt-4-turbo_few_shot      0.68       0.64    0.82      0.72              982.16                     0.009822                  0.8
+gpt-3.5-turbo_zero_shot      0.64       0.66    0.59      0.62              116.98                     0.000023                  0.5
+ gpt-3.5-turbo_few_shot      0.68       0.70    0.62      0.66              981.96                     0.000196                  0.5
