@@ -5,7 +5,6 @@
 The system uses OpenAI's GPT models with carefully engineered prompts to classify news articles and political statements as real or fake. Three prompt strategies are implemented:
 - Zero-shot classification
 - Few-shot classification with examples
-- Chain-of-thought reasoning
 
 ## Features
 
