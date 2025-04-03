@@ -26,4 +26,4 @@ This repository includes the LIAR dataset, which contains 12,800+ human-labeled 
 
 You can specify which models and prompt types to use
 On the command prompt run:
-python main.py --models gpt-3.5-turbo gpt-4-turbo gpt-4o --prompt_types zero-shot few-shot cot
+python main.py --models gpt-3.5-turbo gpt-4-turbo gpt-4o --prompt_types zero-shot few-shot
